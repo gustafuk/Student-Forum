@@ -1,0 +1,46 @@
+.NavBarStyle
+{
+  background-color: #0F52BA;
+  height: 8%;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+}
+.PanelRegister
+{
+  align-content:center;
+  width: 400px;
+  height: auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0px 0.5px 2.5px 1px rgba(0, 0, 0, 0.2);
+  margin-top: 80px;
+  padding-bottom: 30px;
+}
+.PanelAccount
+{
+  align-content:center;
+  width: 400px;
+  height: auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  background-color: white;
+  float: right;
+  display: block;
+  margin-top:-605px;
+  box-shadow: 0px 0.5px 2.5px 1px rgba(0, 0, 0, 0.2);
+  padding-bottom: 40px;
+}
+.SidebarStyle
+{
+  background-color:white;
+  height: 100%;
+  width:15%;
+  margin-left: 0%;
+  box-shadow: 1px 0px 2px 1px rgba(1, 1, 1, 0.3);
+}
